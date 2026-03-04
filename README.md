@@ -1,8 +1,9 @@
 # PD_Aleksejs_Makedons
 --------------------------------------------------
-Tekts saskaita skaitļu a un b un izvada to
+Programma saskaita skaitļu a un b un izvada to
 --------------------------------------------------
 Lai palaist:
-Starte failu main.py
+1. Ieladiet repozitoriju
+2. Starte failu main.py
 --------------------------------------------------
 Programma izmanto MIT license
